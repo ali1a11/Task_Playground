@@ -1,3 +1,4 @@
+---
 # Playground Task
 Welcome to the Playground task project.
 Please click on the links below to get access the documentations.
@@ -8,6 +9,8 @@ Please click on the links below to get access the documentations.
 
 
 
-
+---
 ### by
-### Ali Acilar
+### Ali Acilar 
+
+--- 
